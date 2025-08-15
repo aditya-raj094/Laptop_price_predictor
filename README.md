@@ -17,7 +17,7 @@ This project predicts laptop prices using machine learning models. It uses the *
 
 ## 🛠️ Technologies Used
 
-- **Python **
+- **Python**
 - **Pandas** – Data handling
 - **NumPy** – Numerical computations
 - **Matplotlib & Seaborn** – Visualization
