@@ -51,7 +51,7 @@ This project predicts laptop prices using machine learning models. It uses the *
      - Lasso Regression  
      - K-Nearest Neighbors (KNN)  
      - Decision Tree Regressor  
-     - Support Vector Regression (SVR)**  
+     - Support Vector Regression (SVR)
      - Random Forest Regressor  
      - Gradient Boosting Regressor  
      - AdaBoost Regressor
